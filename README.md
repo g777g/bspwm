@@ -1,2 +1,2 @@
-# my config dotfiles Arch Linux + BSPWM
+# how to instal Arch Linux + BSPWM + dotfiles
 arch linux and bspwm wm
