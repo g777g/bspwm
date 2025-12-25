@@ -19,6 +19,7 @@ chmod +x /home/w22/.config/sxhkd/sxhkdrc
 
 # 6. add themes setings
 mkdir -p ~/.themes/
-cp /bspwm/dotfiles/settings.ini config/gtk-3.0/settings.ini
+mkdir -p /home/w22/.config/gtk-3.0
+cp /bspwm/dotfiles/settings.ini .config/gtk-3.0/settings.ini
 
 echo "Готово!"
