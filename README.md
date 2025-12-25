@@ -12,7 +12,7 @@ System Setup
 ## install yay:
 	curl -fsSL christitus.com/linux | sh,
 	reboot
-# 6 themes nordick:
+## themes nordick:
 	unzip bspwm/dotfiles/themes.zip /home/w22/
 
 	
