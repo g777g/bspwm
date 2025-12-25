@@ -10,3 +10,7 @@ System Setup
 	reboot
 ## connect wifi in clear ARCHLINUX:
 -- nmcli device wifi connect _ORBITA_ password "Ваш_пароль"
+
+
+## chenge lang keyboard:
+	cp 00-keyboard.conf /etc/X11/xorg.conf.d/
