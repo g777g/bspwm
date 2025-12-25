@@ -12,4 +12,11 @@ System Setup
 ## install yay:
 	curl -fsSL christitus.com/linux | sh,
 	reboot
+# 6 themes nordick:
+	mkdir -p ~/.themes/,
+	cp -r /home/w22/Nordic-darker /home/w22/.themes/,
+	micro .config/gtk-3.0/settings.ini,
+			[Settings]
+			gtk-theme-name=Nordic-darker
 
+	
