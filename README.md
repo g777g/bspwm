@@ -13,6 +13,3 @@ System Setup
 	curl -fsSL christitus.com/linux | sh,
 	reboot
 
-
-## chenge lang keyboard:
-	cp 00-keyboard.conf /etc/X11/xorg.conf.d/
