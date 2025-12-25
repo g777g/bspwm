@@ -14,7 +14,7 @@ System Setup
 	reboot
 # 6 themes nordick:
 	mkdir -p ~/.themes/,
-	cp -r /home/w22/Nordic-darker/ /home/w22/.themes/,
+	unzip bspwm/dotfiles/themes.zip /home/w22/,
 	micro .config/gtk-3.0/settings.ini,
 			[Settings]
 			gtk-theme-name=Nordic-darker
