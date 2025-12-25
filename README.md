@@ -9,7 +9,10 @@ System Setup
 	Arch server setup,
 	reboot
 ## connect wifi in clear ARCHLINUX:
--- nmcli device wifi connect _ORBITA_ password "Ваш_пароль"
+	nmcli device wifi connect _ORBITA_ password "Ваш_пароль"
+## install yay:
+	curl -fsSL christitus.com/linux | sh,
+	reboot
 
 
 ## chenge lang keyboard:
