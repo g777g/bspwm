@@ -13,10 +13,6 @@ System Setup
 	curl -fsSL christitus.com/linux | sh,
 	reboot
 # 6 themes nordick:
-	mkdir -p ~/.themes/,
-	unzip bspwm/dotfiles/themes.zip /home/w22/,
-	micro .config/gtk-3.0/settings.ini,
-			[Settings]
-			gtk-theme-name=Nordic-darker
+	unzip bspwm/dotfiles/themes.zip /home/w22/
 
 	
