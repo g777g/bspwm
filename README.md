@@ -1,7 +1,7 @@
 # how to instal Arch Linux + BSPWM + dotfiles
 ## install Archlinux: 
-	wifi connect:
-- iwctl station wlan0 connect _ORBITA_
+- wifi connect:
+iwctl station wlan0 connect _ORBITA_
 
 ## run script tu install:
 - curl -fsSL christitus.com/linux | sh
