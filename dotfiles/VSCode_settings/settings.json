@@ -1,0 +1,75 @@
+{
+  "workbench.colorTheme": "Visual Studio 2017 Dark - C++",
+  "editor.fontLigatures": false,
+  "editor.fontFamily": "'JetBrainsMono Nerd Font'",
+  "editor.fontSize": 13,
+  "editor.bracketPairColorization.enabled": false,
+  "workbench.colorCustomizations": {
+    "[Visual Studio 2017 Dark - C++]": {
+      "editor.background": "#212337",
+      "sideBar.background": "#212337",
+      "sideBar.border": "#212337",
+      "activityBar.background": "#212337",
+      "activityBar.border": "#212337",
+      "editorGroup.border": "#212337",
+      "editorGroupHeader.tabsBackground": "#212337",
+      "editorGroupHeader.tabsBorder": "#212337",
+      "tab.border": "#212337",
+      "tab.activeBorder": "#212337",
+      "tab.inactiveBackground": "#212337",
+      "statusBar.background": "#212337",
+      "statusBar.border": "#212337",
+      "titleBar.activeBackground": "#212337",
+      "titleBar.activeBorder": "#212337",
+      "window.activeBorder": "#212337",
+      "window.inactiveBorder": "#212337",
+      "contrastBorder": "#212337",
+      "editorBracketHighlight.foreground1": "#FFFFFF",
+      "editorBracketHighlight.foreground2": "#FFFFFF",
+      "editorBracketHighlight.foreground3": "#FFFFFF",
+      "editorBracketHighlight.foreground4": "#FFFFFF",
+      "editorBracketHighlight.foreground5": "#FFFFFF",
+      "editorBracketHighlight.foreground6": "#FFFFFF",
+      "editorBracketHighlight.unexpectedBracket.foreground": "#FFFFFF"
+    }
+  },
+  "editor.semanticTokenColorCustomizations": {
+    "[Visual Studio 2017 Dark - C++]": {
+      "rules": {
+        "function": "#FFFFFF",
+        "method": "#FFFFFF",
+        "member": "#FFFFFF"
+      }
+    }
+  },
+  "editor.tokenColorCustomizations": {
+    "[Visual Studio 2017 Dark - C++]": {
+      "textMateRules": [
+        {
+          "scope": [
+            "entity.name.function",
+            "variable.function",
+            "support.function",
+            "meta.function-call",
+            "punctuation.section.group",
+            "punctuation.section.parameters",
+            "punctuation.definition.parameters",
+            "punctuation.section.block",
+            "punctuation.section.arguments",
+            "punctuation.bracket",
+            "meta.brace",
+            "punctuation.section.expression",
+            "punctuation.definition.arguments",
+            "punctuation.definition.bracket",
+            "punctuation.section.scope"
+          ],
+          "settings": {
+            "foreground": "#FFFFFF"
+          }
+        }
+      ]
+    }
+  }
+}
+
+
